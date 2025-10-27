@@ -1,17 +1,68 @@
 <h1 align="center">Hi 👋, I'm Sourav Sarkar</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">Full-Stack Developer | Backend & Data Engineer</h3>
 
-- 🔭 I’m currently working on **Movie Recommender System**
+🔭 I’m currently working on: **Movie Recommender System (ML-powered)**  
+🌱 I’m currently learning: **Machine Learning, AI/LLM integration**  
+📫 Reach me at: **souravsarkar257887@gmail.com**  
+📄 View my resume: [Resume (PDF)](https://drive.google.com/file/d/19V03kz6-TtiBoh8neXL-JHZaKWVra0nH/view?usp=sharing)  
+💼 Open to: **Full-time Full-Stack / Backend Developer roles**  
 
-- 🌱 I’m currently learning **Machine Learning**
+---
 
-- 📫 How to reach me **souravsarkar257887@gmail.com**
+## 🛠️ Skills
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19V03kz6-TtiBoh8neXL-JHZaKWVra0nH/view?usp=sharing](https://drive.google.com/file/d/19V03kz6-TtiBoh8neXL-JHZaKWVra0nH/view?usp=sharing)
+- **Frontend:** React, TypeScript, JavaScript, Bootstrap, Tailwind, HTML, CSS  
+- **Backend:** Python (FastAPI, Flask, Django), Node.js, Spring Boot  
+- **Databases:** PostgreSQL, MySQL, MongoDB  
+- **AI & Data:** Pandas, NumPy, Scikit-learn, Spark, Airflow, Generative AI, NLP  
+- **Cloud & DevOps:** AWS (EC2, RDS, S3, Lambda), Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins)  
+- **Tools:** Git, Postman, Firebase, HuggingFace  
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 💼 Experience
+
+### Programmer Analyst | Cognizant Technology Solutions  
+*Jan 2021 – Sep 2023*  
+- Built and maintained **high-performance backend services** (Python, FastAPI, Flask) handling 500k+ daily transactions.  
+- Designed and deployed **REST APIs & microservices** with PostgreSQL and MongoDB.  
+- Integrated **AI/LLM models** for NLP & Generative AI features in backend pipelines.  
+- Collaborated in **Agile teams** (sprint planning, Git-based workflows, CI/CD).  
+
+### Full Stack Engineer Intern | Cognizant  
+*Sep 2020 – Jan 2021*  
+- Developed **Spring Boot REST APIs**, deployed on AWS (EC2, RDS, S3).  
+- Helped migrate from **monolith to microservices**, improving scalability.  
+- Improved API performance via **query optimization & caching** (~25% faster).  
+- Participated in client demos and code reviews, ensuring technical alignment.  
+
+---
+
+## 📌 Featured Projects
+
+### 📚 [BookBid – Online Book Marketplace](https://github.com/sourav03561/BookBid)  
+- **Stack:** React, Node.js, Express, MongoDB, Firebase  
+- Built an **online marketplace** to buy, sell & bid books with **real-time bidding (WebSockets)**.  
+- Added **secure JWT auth, seller dashboards, and instant notifications**.  
+
+### 🦠 [COVID-19 Data Analysis](https://github.com/sourav03561/covid-19-data-analysis-Big-Data-)  
+- **Stack:** Python, Pandas, Airflow, Spark, Kibana, MySQL  
+- Built an **ETL pipeline** integrating data from multiple APIs & CSV sources.  
+- Automated workflows using **Airflow DAGs** and processed datasets with **Spark**.  
+- Visualized global COVID trends via **interactive Kibana dashboards**.  
+
+---
+
+## 📫 Connect with Me
+
 <p align="left">
+  <a href="mailto:souravsarkar257887@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sourav-sarkar-8a9286186/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/sourav03561">
+    <img src="https://img.shields.io/badge/GitHub-333?style=flat&logo=github"/>
+  </a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
