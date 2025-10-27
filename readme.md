@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sourav Sarkar</h1>
 <h3 align="center">Full-Stack Developer | Backend & Data Engineer</h3>
 
-🔭 I’m currently working on: **Movie Recommender System (ML-powered)**  
+
 🌱 I’m currently learning: **Machine Learning, AI/LLM integration**  
 📫 Reach me at: **souravsarkar257887@gmail.com**  
 📄 View my resume: [Resume (PDF)](https://drive.google.com/file/d/19V03kz6-TtiBoh8neXL-JHZaKWVra0nH/view?usp=sharing)  
