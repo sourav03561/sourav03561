@@ -39,7 +39,7 @@ Here are some of my key projects (and more in my repositories):
 ### 📫 Let’s Connect
 - 💼 **LinkedIn:** https://www.linkedin.com/in/sourav-sarkar-086107156  
 - 📧 **Email:** souravsarkar25787@gmail.com  
-- 🌐 **Portfolio:[** *([link)](https://souravsarkarfullstackai.netlify.app/)*]()  
+- 🌐 **Portfolio:[** *([link](https://souravsarkarfullstackai.netlify.app/)*]()  
 
 ---
 
