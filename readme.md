@@ -1,18 +1,95 @@
-# 💫 About Me:
-## Hi there 👋 I'm Sourav Sarkar<br><br>I’m a passionate **Software Engineer** with 2+ years of professional experience building **scalable backend systems**, **API services**, and **AI-powered applications**. I love solving real-world problems with clean code, thoughtful design, and continuous learning.<br><br>### 👨‍💻 What I Do<br>- 🔹 Build robust backend services using **Python**, **FastAPI**, and **Flask**<br>- 🔹 Develop full-stack applications with **React** and modern web technologies<br>- 🔹 Work with databases like **PostgreSQL**, **MySQL**, and **MongoDB**<br>- 🔹 Create data and NLP-driven tools using **Generative AI**, **OCR**, and machine learning<br>- 🔹 Deploy and scale systems using **Docker**, **AWS**, and **CI/CD**<br><br>### 🚀 Projects I’m Proud Of<br>Here are some of my key projects (and there’s more in my repos):<br>- 📘 **StudyAI** – An AI-powered PDF study assistant that generates summaries, quizzes, and flashcards.<br>- 📚 **Book Exchange Portal** – A community platform to lend, borrow, and manage books with social features.<br>- 📦 **E-commerce API** – A scalable backend with authentication, authorization, and product workflows.<br><br>### 💡 What I’m Working On<br>- Exploring **Distributed Systems** and **Event-Driven Architectures**<br>- Improving my knowledge in **Cloud-Native Engineering** & **Kubernetes**<br>- Contributing to open-source and collaborative community projects<br><br>### 🎯 I’m Currently Looking For<br>📌 **Tech internships or early-career roles (Summer 2026)** in backend engineering, AI/ML, or full-stack development — especially in **Europe** (France, Netherlands, Estonia, Luxembourg, Latvia, and beyond).<br><br>### 📫 Let’s Connect<br>- 💼 LinkedIn: https://www.linkedin.com/in/sourav-sarkar  <br>- 📧 Email: [your email here]  <br>- 🌐 Portfolio: [your portfolio link here]<br><br>---<br><br>Thanks for stopping by! 👨‍💻✨<br>
+# 💫 About Me
 
+## Hi there 👋 I'm Sourav Sarkar  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sourav-sarkar-086107156) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:souravsarkar25787@gmail.com) 
-
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sourav03561&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sourav03561&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sourav03561&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I’m a passionate **Software Engineer** with 2+ years of professional experience building **scalable backend systems**, **API services**, and **AI-powered applications**. I enjoy solving real-world problems through clean code, thoughtful system design, and continuous learning.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sourav03561&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 What I Do
+- 🔹 Build robust backend services using **Python**, **FastAPI**, and **Flask**
+- 🔹 Develop full-stack applications with **React** and modern web technologies
+- 🔹 Work with databases like **PostgreSQL**, **MySQL**, and **MongoDB**
+- 🔹 Create data- and NLP-driven tools using **Generative AI**, **OCR**, and Machine Learning
+- 🔹 Deploy and scale systems using **Docker**, **AWS**, and **CI/CD**
+
+---
+
+### 🚀 Projects I’m Proud Of
+Here are some of my key projects (and more in my repositories):
+- 📘 **StudyAI** – An AI-powered PDF study assistant that generates summaries, quizzes, and flashcards  
+- 📚 **Book Exchange Portal** – A community platform to lend, borrow, and manage books with social features  
+- 📦 **E-commerce API** – A scalable backend with authentication, authorization, and product workflows  
+
+---
+
+### 💡 What I’m Working On
+- Exploring **Distributed Systems** and **Event-Driven Architectures**
+- Deepening my skills in **Cloud-Native Engineering** & **Kubernetes**
+- Contributing to **open-source** and collaborative projects
+
+---
+
+### 🎯 I’m Currently Looking For
+📌 **Tech internships or early-career roles (Summer 2026)** in **Backend Engineering, AI/ML, or Full-Stack Development** — especially in  
+**France, Netherlands, Estonia, Luxembourg, Latvia, and across Europe**
+
+---
+
+### 📫 Let’s Connect
+- 💼 **LinkedIn:** https://www.linkedin.com/in/sourav-sarkar-086107156  
+- 📧 **Email:** souravsarkar25787@gmail.com  
+- 🌐 **Portfolio:** *(add your portfolio link here)*  
+
+---
+
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sourav-sarkar-086107156)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:souravsarkar25787@gmail.com)
+
+---
+
+## 💻 Tech Stack
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+### 🧠 Data, AI & ML
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![MLflow](https://img.shields.io/badge/mlflow-%2300A98F.svg?style=for-the-badge&logo=mlflow&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+
+### ⚙️ Frameworks & Tools
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sourav03561&theme=dark&hide_border=false)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=sourav03561&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sourav03561&theme=dark&hide_border=false&layout=compact)
+
+---
+
+![Profile Views](https://visitcount.itsvg.in/api?id=sourav03561&icon=0&color=0)
+
+<!-- Proudly created with GPRM -->
