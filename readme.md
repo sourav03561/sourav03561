@@ -1,68 +1,18 @@
-<h1 align="center">Hi 👋, I'm Sourav Sarkar</h1>
-<h3 align="center">Full-Stack Developer | Backend & Data Engineer</h3>
+# 💫 About Me:
+## Hi there 👋 I'm Sourav Sarkar<br><br>I’m a passionate **Software Engineer** with 2+ years of professional experience building **scalable backend systems**, **API services**, and **AI-powered applications**. I love solving real-world problems with clean code, thoughtful design, and continuous learning.<br><br>### 👨‍💻 What I Do<br>- 🔹 Build robust backend services using **Python**, **FastAPI**, and **Flask**<br>- 🔹 Develop full-stack applications with **React** and modern web technologies<br>- 🔹 Work with databases like **PostgreSQL**, **MySQL**, and **MongoDB**<br>- 🔹 Create data and NLP-driven tools using **Generative AI**, **OCR**, and machine learning<br>- 🔹 Deploy and scale systems using **Docker**, **AWS**, and **CI/CD**<br><br>### 🚀 Projects I’m Proud Of<br>Here are some of my key projects (and there’s more in my repos):<br>- 📘 **StudyAI** – An AI-powered PDF study assistant that generates summaries, quizzes, and flashcards.<br>- 📚 **Book Exchange Portal** – A community platform to lend, borrow, and manage books with social features.<br>- 📦 **E-commerce API** – A scalable backend with authentication, authorization, and product workflows.<br><br>### 💡 What I’m Working On<br>- Exploring **Distributed Systems** and **Event-Driven Architectures**<br>- Improving my knowledge in **Cloud-Native Engineering** & **Kubernetes**<br>- Contributing to open-source and collaborative community projects<br><br>### 🎯 I’m Currently Looking For<br>📌 **Tech internships or early-career roles (Summer 2026)** in backend engineering, AI/ML, or full-stack development — especially in **Europe** (France, Netherlands, Estonia, Luxembourg, Latvia, and beyond).<br><br>### 📫 Let’s Connect<br>- 💼 LinkedIn: https://www.linkedin.com/in/sourav-sarkar  <br>- 📧 Email: [your email here]  <br>- 🌐 Portfolio: [your portfolio link here]<br><br>---<br><br>Thanks for stopping by! 👨‍💻✨<br>
 
 
-🌱 I’m currently learning: **Machine Learning, AI/LLM integration**  
-📫 Reach me at: **souravsarkar257887@gmail.com**  
-📄 View my resume: [Resume (PDF)](https://drive.google.com/file/d/19V03kz6-TtiBoh8neXL-JHZaKWVra0nH/view?usp=sharing)  
-💼 Open to: **Full-time Full-Stack / Backend Developer roles**  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sourav-sarkar-086107156) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:souravsarkar25787@gmail.com) 
 
----
-
-## 🛠️ Skills
-
-- **Frontend:** React, TypeScript, JavaScript, Bootstrap, Tailwind, HTML, CSS  
-- **Backend:** Python (FastAPI, Flask, Django), Node.js, Spring Boot  
-- **Databases:** PostgreSQL, MySQL, MongoDB  
-- **AI & Data:** Pandas, NumPy, Scikit-learn, Spark, Airflow, Generative AI, NLP  
-- **Cloud & DevOps:** AWS (EC2, RDS, S3, Lambda), Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins)  
-- **Tools:** Git, Postman, Firebase, HuggingFace  
+# 💻 Tech Stack:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sourav03561&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sourav03561&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sourav03561&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=sourav03561&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💼 Experience
-
-### Programmer Analyst | Cognizant Technology Solutions  
-*Jan 2021 – Sep 2023*  
-- Built and maintained **high-performance backend services** (Python, FastAPI, Flask) handling 500k+ daily transactions.  
-- Designed and deployed **REST APIs & microservices** with PostgreSQL and MongoDB.  
-- Integrated **AI/LLM models** for NLP & Generative AI features in backend pipelines.  
-- Collaborated in **Agile teams** (sprint planning, Git-based workflows, CI/CD).  
-
-### Full Stack Engineer Intern | Cognizant  
-*Sep 2020 – Jan 2021*  
-- Developed **Spring Boot REST APIs**, deployed on AWS (EC2, RDS, S3).  
-- Helped migrate from **monolith to microservices**, improving scalability.  
-- Improved API performance via **query optimization & caching** (~25% faster).  
-- Participated in client demos and code reviews, ensuring technical alignment.  
-
----
-
-## 📌 Featured Projects
-
-### 📚 [BookBid – Online Book Marketplace](https://github.com/sourav03561/BookBid)  
-- **Stack:** React, Node.js, Express, MongoDB, Firebase  
-- Built an **online marketplace** to buy, sell & bid books with **real-time bidding (WebSockets)**.  
-- Added **secure JWT auth, seller dashboards, and instant notifications**.  
-
-### 🦠 [COVID-19 Data Analysis](https://github.com/sourav03561/covid-19-data-analysis-Big-Data-)  
-- **Stack:** Python, Pandas, Airflow, Spark, Kibana, MySQL  
-- Built an **ETL pipeline** integrating data from multiple APIs & CSV sources.  
-- Automated workflows using **Airflow DAGs** and processed datasets with **Spark**.  
-- Visualized global COVID trends via **interactive Kibana dashboards**.  
-
----
-
-## 📫 Connect with Me
-
-<p align="left">
-  <a href="mailto:souravsarkar257887@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sourav-sarkar-8a9286186/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/sourav03561">
-    <img src="https://img.shields.io/badge/GitHub-333?style=flat&logo=github"/>
-  </a>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
