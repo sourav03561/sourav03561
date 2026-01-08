@@ -90,6 +90,4 @@ Here are some of my key projects (and more in my repositories):
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=sourav03561&icon=0&color=0)
 
-<!-- Proudly created with GPRM -->
