@@ -39,7 +39,7 @@ Here are some of my key projects (and more in my repositories):
 ### 📫 Let’s Connect
 - 💼 **LinkedIn:** https://www.linkedin.com/in/sourav-sarkar-086107156  
 - 📧 **Email:** souravsarkar25787@gmail.com  
-- 🌐 **Portfolio:** *(add your portfolio link here)*  
+- 🌐 **Portfolio:[** *([add your portfolio link here)](https://souravsarkarfullstackai.netlify.app/)*]()  
 
 ---
 
@@ -84,9 +84,7 @@ Here are some of my key projects (and more in my repositories):
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sourav03561&theme=dark&hide_border=false)
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=sourav03561&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sourav03561&theme=dark&hide_border=false&layout=compact)
 
 ---
 
