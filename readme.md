@@ -89,9 +89,10 @@ Here are some of my key projects (and more in my repositories):
 ---
 ## 🧩 LeetCode Stats
 
-![LeetCode Stats](<img width="852" height="614" alt="Image" src="https://github.com/user-attachments/assets/4f5cc91c-7200-4f52-b806-999fa5a09a45" />)
+<img width="852" height="614" src="https://github.com/user-attachments/assets/4f5cc91c-7200-4f52-b806-999fa5a09a45" />
 
 - 🏆 Total Problems Solved: 500+
 - 🚀 Top Topics: Arrays, DP, Graphs, SQL
 - 📈 Daily Streak: 100 days
 
+---
