@@ -2,7 +2,7 @@
 
 ## Hi there 👋 I'm Sourav Sarkar  
 
-I’m a passionate **Software Engineer** with 2+ years of professional experience building **scalable backend systems**, **API services**, and **AI-powered applications**. I enjoy solving real-world problems through clean code, thoughtful system design, and continuous learning.
+I’m a passionate **Software Engineer** with 2.5+ years of professional experience building **scalable backend systems**, **API services**, and **AI-powered applications**. I enjoy solving real-world problems through clean code, thoughtful system design, and continuous learning.
 
 ---
 
@@ -82,11 +82,6 @@ Here are some of my key projects (and more in my repositories):
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=sourav03561&theme=dark&hide_border=false)
-
----
 ## 🧩 LeetCode Stats
 
 <img width="852" height="614" src="https://github.com/user-attachments/assets/4f5cc91c-7200-4f52-b806-999fa5a09a45" />
